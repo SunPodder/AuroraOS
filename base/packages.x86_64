@@ -31,6 +31,7 @@ f2fs-tools
 fatresize
 foot-terminfo
 fsarchiver
+gdm
 gnu-netcat
 gpart
 gpm
@@ -71,6 +72,7 @@ mtools
 nano
 nbd
 ndisc6
+networkmanager
 nfs-utils
 nilfs-utils
 nmap
@@ -126,4 +128,5 @@ wpa_supplicant
 wvdial
 xfsprogs
 xl2tpd
+xorg
 zsh
